@@ -19,10 +19,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/index.js"
     ],
-    "/ImageChangeOnMouseOver": [
+    "/ImageChangeOnScroll": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/ImageChangeOnMouseOver.js"
+      "static/chunks/pages/ImageChangeOnScroll.js"
     ],
     "/_app": [
       "static/chunks/webpack.js",
